@@ -28,3 +28,9 @@ CT Storage has made for help our community “ITC” to sharing a file each othe
 •	MYSQL
 
 </pre>
+
+<br>
+<strong>Screenshoot </strong> <br>
+
+<img src="readme_file/bg2.png" width="100%"> <br>
+<img src="readme_file/bg3.png" width="100%"> <br>
