@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ob",
+				"ob_clean"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"lis",
+				"list_featured"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"lo",
+				"logo_itc"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"tgl",
+				"tgl_bts"
+			],
+			[
+				"pre",
+				"pre-line"
+			],
+			[
+				"cont",
+				"content_section"
+			],
+			[
+				"fea",
+				"featured_box"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"li",
+				"light"
+			],
+			[
+				"l",
+				"light"
+			],
+			[
+				"PT",
+				"PTSansRegular"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"g",
+				"Gothic"
+			],
+			[
+				"lea",
+				"League"
+			],
+			[
+				"lin",
+				"letter-spacing"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"tg",
+				"tgl_sekarang"
+			],
+			[
+				"masa",
+				"masa_tenggang"
+			],
+			[
+				"data",
+				"data_siswa"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"query",
+				"query_siswa"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"add",
+				"addcslashes"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"cus",
+				"custom_type_post"
+			],
+			[
+				"q_",
+				"q_i_t"
+			],
+			[
+				"id",
+				"id_last_insert"
+			],
+			[
+				"po",
+				"post_type"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"cu",
+				"custom"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"type",
+				"type_post"
+			],
+			[
+				"q_t",
+				"q_t_p_s"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"url",
+				"url_title"
+			],
+			[
+				"ta",
+				"tahun_lahir"
+			],
+			[
+				"logo",
+				"logo_tng"
+			],
+			[
+				"hea",
+				"header_cop"
+			],
+			[
+				"asa",
+				"asal_sekolah_status"
+			],
+			[
+				"asal",
+				"asal_sekolah_lokasi"
+			],
+			[
+				"alamat",
+				"alamat_kota"
+			],
+			[
+				"alama",
+				"alamat_kecamatan"
+			],
+			[
+				"be",
+				"berat_badan"
+			],
+			[
+				"pro",
+				"prog_keahlihan"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"logi",
+				"login_siswa"
+			],
+			[
+				"no",
+				"no_ujian_smp"
+			],
+			[
+				"f_",
+				"f_s_e"
+			],
+			[
+				"id_l",
+				"id_location_home"
+			],
+			[
+				"ad",
+				"ads_1"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"table",
+				"table_data"
+			],
+			[
+				"tab",
+				"table_data"
+			],
+			[
+				"form",
+				"form-test"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"cou",
+				"count_alpha"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 10073,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/root/ct_storage/mod/administrator/users_manager.php",
+		"/var/www/root/ct_storage/mod/users/files-core.php",
+		"/var/www/root/ct_storage/mod/users/sharing.dashboard.php",
+		"/var/www/root/ct_storage/mod/users/index.php",
+		"/var/www/root/ct_storage/login.php",
+		"/var/www/root/ct_storage/header.php",
+		"/var/www/root/ct_storage/index.php",
+		"/var/www/root/ct_storage/mod/administrator/settings.php",
+		"/var/www/root/ct_storage/mod/administrator/users_manager-delete_user.php",
+		"/var/www/root/ct_storage/mod/administrator/username.check.php",
+		"/var/www/root/ct_storage/footer.php",
+		"/var/www/root/ct_storage/mod/administrator/users_manager-edit.php",
+		"/var/www/root/ct_storage/mod/administrator/users_manager-delete.php",
+		"/var/www/root/ct_storage/mod/administrator/index.php",
+		"/var/www/root/ct_storage/mod/administrator/profile.php",
+		"/var/www/root/ct_storage/mod/users/profile-apply.php",
+		"/var/www/root/ct_storage/mod/users/profile.php",
+		"/var/www/root/ct_storage/mod/users/sharing.core.php",
+		"/var/www/root/ct_storage/mod/users/sharing.php",
+		"/var/www/root/ct_storage/mod/users/files-copy.php",
+		"/var/www/root/ct_storage/mod/users/links.php",
+		"/var/www/root/ct_storage/left.php",
+		"/var/www/root/ct_storage/mod/users/files.php",
+		"/var/www/root/ct_storage/mod/users/sharing-add.php",
+		"/var/www/root/ct_storage/assets/function/files.func.php",
+		"/var/www/root/ct_storage/config.php",
+		"/var/www/root/ct_storage/assets/css/flat-ui.css",
+		"/var/www/root/ct_storage/assets/css/font.css",
+		"/var/www/root/ct_storage/mod/home.php",
+		"/var/www/root/ct_storage/root_storage_file/.htaccess",
+		"/var/www/root/ct_storage/.htaccess",
+		"/var/www/root/ct_storage/assets/css/bootflat.css",
+		"/home/hanelprillian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/root/ct_storage/assets/css/bootflat-square.css",
+		"/var/www/root/ct_storage/mod/users/files-delete.php",
+		"/var/www/root/ct_storage/autoload.php",
+		"/var/www/root/ct_storage/var.php",
+		"/var/www/root/ct_storage/assets/css/style.css",
+		"/var/www/root/ct_storage/ct_storage.sql",
+		"/var/www/root/ct_storage/ct_storage.sublime-workspace",
+		"/var/www/root/ct_storage/links.php",
+		"/var/www/root/ct_storage/backupdb.sql",
+		"/var/www/root/ct_storage/mod/administrator/profile-apply.php",
+		"/var/www/root/new_cargando/css/main-style.css",
+		"/var/www/root/ct_storage/assets/function/encrypt_decrypt.func.php",
+		"/var/www/root/ct_storage/mod/users/folder-copy.php",
+		"/var/www/root/ct_storage/mod/users/folder-rename.php",
+		"/var/www/root/proyek_tvri/login.php",
+		"/var/www/root/proyek_tvri/mod/administrator/users_manager.php",
+		"/var/www/root/proyek_tvri/mod/administrator/users_manager-delete_user.php",
+		"/var/www/root/proyek_tvri/mod/administrator/users_manager-delete.php",
+		"/var/www/root/proyek_tvri/mod/users/files.php",
+		"/var/www/root/proyek_tvri/index.php",
+		"/var/www/root/proyek_tvri/.htaccess",
+		"/var/www/root/proyek_tvri/config.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/users_manager.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/sidebar-add.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/sidebar_cat.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/sidebar.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/post.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/files-copy.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/files.php",
+		"/E/Smkn 5/SMKN5_2013/SMKN5_2013/css/style.css",
+		"/C/wamp/www/new_cargando/css/font-style.css",
+		"/C/wamp/www/new_cargando/header.php",
+		"/C/wamp/www/new_cargando/footer.php",
+		"/C/wamp/www/new_cargando/single.php",
+		"/C/wamp/www/new_cargando/single-full.php",
+		"/E/Smkn 5/SMKN5_2013/SMKN5_2013/single.php",
+		"/C/Users/Hanel Prillian/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Hanel Prillian/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/latihan/latihan_tgl.php",
+		"/C/wamp/www/latihan/latihan_perulangan.php",
+		"/E/Smkn 5/SMKN5_2013/SMKN5_2013/blog.php",
+		"/E/ITC/ITCWeb/Wordpress/web cargando/cargando/index.html",
+		"/E/Smkn 5/SMKN5_2013/SMKN5_2013/css/font.css",
+		"/C/wamp/www/web_ekskul2/index.php",
+		"/C/wamp/www/web_ekskul2/css/style.css",
+		"/C/wamp/www/new_cargando/fonts/C/stylesheet.css",
+		"/C/wamp/www/new_cargando/fonts/B/stylesheet.css",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/ads-detail.php",
+		"/C/wamp/www/new_tvri/tvri-admin/mod/administrator/ads-add.php",
+		"/C/wamp/www/new_tvri/DB BACKUP/db_20_07_2014_new_field_and_table_created.sql",
+		"/C/wamp/www/new_tvri/new_tvri.sql",
+		"/C/wamp/www/new_tvri/assets/theme/home.php",
+		"/C/wamp/www/new_cargando/fonts/L/stylesheet.css",
+		"/C/wamp/www/new_cargando/css/style-home.css",
+		"/C/xampp/htdocs/new_cargando/index.html",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/information.tpl",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/header.tpl",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/2stylesheet.css",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/information.php",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/common/header.tpl",
+		"/C/Users/Hanel Prillian/AppData/Local/Temp/fz3temp-1/column_left.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/freebox1.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/freebox2.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/product/category.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/information/sitemap.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/information/contact.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/common/footer.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/common/home.tpl",
+		"/C/wamp/www/harmainises2/download/index.html",
+		"/C/wamp/www/harmainises2/system/startup.php",
+		"/C/wamp/www/harmainises2/index.php",
+		"/C/wamp/www/harmainises2/config.php",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/welcome.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/store.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/displaymessage.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/default/template/module/currency.tpl",
+		"/C/wamp/www/harmainises2/catalog/language/indonesia/module/displaymessage.php",
+		"/C/wamp/www/harmainises2/catalog/language/english/module/fc_customfooter.php",
+		"/C/wamp/www/harmainises2/catalog/view/theme/gift_op/template/module/affiliate.tpl",
+		"/C/wamp/www/harmainises2/catalog/view/theme/gift_op/template/module/fc_customfooter.tpl",
+		"/C/Users/Hanel Prillian/Pictures/slice/jasawebsmart.html",
+		"/C/wamp/www/belajar_ci/application/models/fetch_data.php",
+		"/C/wamp/www/belajar_ci/application/views/view_page.php",
+		"/C/wamp/www/belajar_ci/application/views/hanel_web.php",
+		"/C/wamp/www/belajar_ci/application/views/data_siswa.php",
+		"/C/wamp/www/belajar_ci/application/controllers/web.php",
+		"/C/Users/Hanel Prillian/Documents/When I look into your eyes.txt",
+		"/C/wamp/www/belajar_ci/application/config/autoload.php",
+		"/C/wamp/www/web_ekskul/index.php",
+		"/C/wamp/www/web_ekskul/page/berita-view.php",
+		"/C/wamp/www/web_ekskul/page/berita.php",
+		"/C/wamp/www/latihan/aritmatika.php",
+		"/C/wamp/www/web_ekskul/config.php",
+		"/C/wamp/www/new_tvri/assets/theme/page.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/root/ct_storage",
+			"/var/www/root/ct_storage/mod/administrator",
+			"/var/www/root/ct_storage"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img_photo_admin",
+			"tvri",
+			"logo img",
+			"#left",
+			".box",
+			"Share a Folder",
+			"table-background",
+			".box",
+			"$_GET['dir']",
+			"delete",
+			"leadon",
+			"Tvri",
+			"<i class=\"fa fa-home fa-3x left margin10right\">",
+			"calibri",
+			"login",
+			"STORAGE_TVRI_START_DIR",
+			"title_section",
+			"flexible_box",
+			"banner",
+			"indentation",
+			"indent",
+			"content",
+			"h4",
+			"red",
+			".list-article",
+			".info-article",
+			"font-family: \"arial\";",
+			"font-family: \"open sans\";",
+			"../font/",
+			"ads",
+			"button",
+			"mysafe",
+			"content",
+			"button",
+			"banner",
+			"module",
+			"store",
+			"box",
+			"Theme - Space",
+			"Spacegray",
+			"Theme - Spacegray",
+			"Spacegray",
+			"Space",
+			"Spacegray",
+			"close",
+			"tab",
+			"http://localhost/harmainises2/",
+			"/home/gunungma/public_html/",
+			"http://www.gunungmas-computer.com/",
+			"/home/gunungma/public_html/",
+			"http://www.gumasindo.com/",
+			"/home/gunungma/public_html/gumasindo.com/",
+			"text_login",
+			"menu",
+			"PoSelect",
+			"tableName",
+			"post",
+			"tooltip",
+			"f_t_p_s",
+			"schedulehome",
+			"825px",
+			"e1e2e4",
+			"a5a5a5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CT",
+			"",
+			"STORAGE_DIR"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 10073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6549,
+								6549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8223.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}
